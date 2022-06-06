@@ -1,7 +1,7 @@
 BMI Calculator 
 =============
 
-This is just a demo project to calculate the BMI (Body Mass Index) of the person. This can help identify the high risk people given their weight and height is known.
+This is just a demo project to calculate the BMI (Body Mass Index) of a person. This can help identify the high risk people given their weight and height is known.
 * Problem statement 1- Calculate the BMI using the given Table 1 and add three new columns
   * BMI 
   * BMI Category 
